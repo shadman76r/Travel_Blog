@@ -1,0 +1,46 @@
+.image{
+    background-image: url('travel-concept-with-worldwide-landmarks.jpg');
+    background-position: 50%;
+    background-size: cover;
+    margin-top: 20px;
+    /* text-align: center; */
+    text-shadow: 10px;
+    /* color: red */
+    backface-visibility: hidden;
+
+
+}
+
+*{
+    margin: 0px;
+}
+.head{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+    /* background-color: greenyellow; */
+    border-radius: 10%;
+    border: 1px solid black ;
+    margin: 10px;
+    font-size: larger;
+    padding: auto;
+}
+.magic{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    color: blue;
+}
+.m{
+    color: rebeccapurple;
+}
+.some{
+    text-align: center;
+    font-size: larger;
+    color: black;
+}
+.order{
+    border: 2px solid yellow;
+    padding: auto;
+    margin-top: 10px;
+
+}
